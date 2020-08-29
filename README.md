@@ -6,7 +6,9 @@ MyCollege Planner is available on the Google Play Store:
 Effective: August 30, 2020
 
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
+
 We will not use or share your information with anyone except as described in this Privacy Policy.
+
 We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy
 1. Information We Collect
 
