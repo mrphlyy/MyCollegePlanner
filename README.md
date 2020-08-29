@@ -9,7 +9,7 @@ This page informs you of our policies regarding the collection, use and disclosu
 
 We will not use or share your information with anyone except as described in this Privacy Policy.
 
-We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy.
 1. Information We Collect
 
 When you use MyCollegePlanner, all your data is saved locally on your device. The app does use third party services that may collect information used to identify you.
