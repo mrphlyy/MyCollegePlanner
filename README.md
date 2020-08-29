@@ -1,8 +1,8 @@
 # MyCollegePlanner
-##### About
+## About
 MyCollege Planner is available on the Google Play Store:
 
-##### Privacy Policy
+## Privacy Policy
 Effective: August 30, 2020
 1. Information We Collect
 
