@@ -48,3 +48,9 @@ If you have any questions about this Privacy Policy, please contact us.
 
 help.mycollegeplanner@gmail.com
 u/mycollegeplannerapp
+
+
+
+###### Attribution
+Google Play Mockups were created with MockUPhone.
+Some icons were created by Freepik via https://www.flaticon.com
