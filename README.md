@@ -53,4 +53,5 @@ u/mycollegeplannerapp
 
 ###### Attribution
 Google Play Mockups were created with MockUPhone.
+
 Some icons were created by Freepik via https://www.flaticon.com
