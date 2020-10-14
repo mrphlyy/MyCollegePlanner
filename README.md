@@ -1,6 +1,6 @@
 # MyCollegePlanner
 ## About
-MyCollege Planner is available on the Google Play Store (in open beta): https://play.google.com/store/apps/details?id=com.bindi.collegeplanner&ah=yYBWrhzceSqO98zRMeIq2iZVLik
+MyCollege Planner is available on the Google Play Store (in open beta): https://bit.ly/2Fps7r4
 
 ## Privacy Policy
 Effective: August 30, 2020
