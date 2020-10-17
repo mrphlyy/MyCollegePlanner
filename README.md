@@ -1,4 +1,6 @@
 # MyCollegePlanner
+
+![](https://img.shields.io/badge/Version-1.0.0-green)
 ## About
 MyCollege Planner is available on the Google Play Store (in open beta): https://bit.ly/2Fps7r4
 
